@@ -10,11 +10,6 @@
 - 🎯 効率的なコーディングと、クリーンな設計を意識できるようになりたいです。
 
 ## 📬 Contact
-- 💡 何かあればお気軽にどうぞ！<p align="center">
-  [![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
-</p>
-
-<p align="center">
-  [![Quiz App](https://shields.io)](https://github.io)
-  [![X](https://shields.io)](https://x.com)
+- 💡 何かあればお気軽にどうぞ！<p align="center"><p align="center">
+  <img src="https://herokuapp.com" />
 </p>
