@@ -11,17 +11,15 @@
 
 ## 📬 Contact
 - 💡 何かあればお気軽にどうぞ！
-  <p align="center">
+ <div align="center">
   <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
+<div align="center">
+  <a href="https://github.io" target="_blank">
+    <img src="https://shields.io" alt="Quiz App" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://shields.io" alt="Quiz App" />
-  <img src="https://shields.io" alt="X" />
-</p>
+  <a href="https://x.com" target="_blank">
+    <img src="https://shields.io" alt="X" />
+  </a>
+</div>
