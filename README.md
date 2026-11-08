@@ -38,7 +38,7 @@ A simple, interactive quiz web application built from scratch. I am hosting it u
 
 ## Connect
 
-*   As a high school student and a beginner developer, I still have a lot to learn. If you have any helpful advice, study tips, or recommendations, please feel free to share them with me. Your kindness is highly appreciated.
+*   As a beginner developer, I still have a lot to learn. If you have any helpful advice, study tips, or recommendations, please feel free to share them with me. Your kindness is highly appreciated.
 
 ---
 <p align="center">Tokyo, Japan | Last updated: November 2026</p>
