@@ -16,9 +16,12 @@
 </p>
 
 <p align="center">
-  Learning Web Development | Exploring the space between Quark and Null.
+  <a href="https://git.io">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Quiz App" />
+  <img src="https://shields.io" alt="X" />
 </p>
