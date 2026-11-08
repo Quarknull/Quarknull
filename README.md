@@ -11,3 +11,10 @@
 
 ## 📬 Contact
 - 💡 何かあればお気軽にどうぞ！
+  <p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Learning Web Development | Exploring the space between Quark and Null.
+</p>
