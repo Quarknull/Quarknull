@@ -18,3 +18,7 @@
 <p align="center">
   Learning Web Development | Exploring the space between Quark and Null.
 </p>
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
