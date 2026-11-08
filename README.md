@@ -1,4 +1,4 @@
-# Hi there, I'm QuarkNull 👋 🌅
+# Hi there, I'm QuarkNull 
 
 「QuarkNull」のページへようこそ！
 プログラミング学習中のQuarkNullです。
