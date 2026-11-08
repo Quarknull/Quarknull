@@ -11,7 +11,7 @@
 
 ## 📬 Contact
 - 💡 何かあればお気軽にどうぞ！
- <div align="center">
+<div align="center">
   <img src="https://demolab.com" alt="Typing SVG" />
 </div>
 
