@@ -1,14 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=00FF7F&center=true&vCenter=true&width=435&lines=quarknull" alt="quarknull" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=00FF7F&center=true&vCenter=true&width=500&lines=quarknull+GitHub" alt="quarknull GitHub" />
 </h1>
-# Welcome to QuarkNull's GitHub!
 
+<h3 align="center">High School Student interested in  Web Development | Coding</h3>
+
+<h3 align="center">Specializing in JavaScript, HTML/CSS & Clean Coding Foundations</h3>
+
+<p align="center">
+  <!-- バッジやリンクがあればここに -->
+</p>
 ---
 
 ## About Me
 
-Hi there! I am **QuarkNull**, a high school student from Japan. 
-I recently discovered the joy of programming and started teaching myself web development. I love the process of learning new things and building interactive projects with my own code.
+Web開発とフロントエンド技術の学習に取り組んでいます。JavaScriptを用いたクイズアプリの作成、HTML/CSSによるUI設計、クリーンなコードの実装に関心があり、実用的なWebシステムの構築を目指しています。
+
+Learning web development and frontend technologies. My focus is on quiz application development using JavaScript, UI design with HTML/CSS, and clean code implementations for practical web applications. Outside of coding, I have a strong aptitude for mathematics and English, and am currently studying to achieve higher English language qualifications.
+
 
 ---
 
