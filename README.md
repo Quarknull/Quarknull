@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm QuarkNull 👋 🌅
 
-<!--
-**Quarknull/Quarknull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+「QuarkNull」のページへようこそ！
+プログラミング学習中のQuarkNullです。
+アイコンの日の出のように、新しい技術に触れて視野が広がっていく瞬間が好きです。
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 現在は **Web開発（HTML/CSS, JavaScript）** を熱心に勉強中です。
+- 🛠️ 実際に作ったクイズアプリ（final-quiz.github.io）などを公開しています。
+- 🎯 効率的なコーディングと、クリーンな設計を意識できるようになりたいです。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+- 💡 何かあればお気軽にどうぞ！
