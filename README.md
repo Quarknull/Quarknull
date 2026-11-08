@@ -1,46 +1,44 @@
-<div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
+# 🌅 Welcome to QuarkNull's GitHub!
 
-## 🚀 自己紹介
+---
 
-はじめまして、QuarkNull（クォーク・ヌル）と申します！
-プログラミングに興味を持ち、現在は学校に通いながら独学でWeb開発（HTML、CSS、JavaScript）の勉強を少しずつ始めている高校生です。
-新しい知識を学んで、自分の書いたコードで思った通りにモノが動く楽しさを知り、日々のんびり進めています。
+## 🚀 About Me
+
+Hi there! I am **QuarkNull**, a high school student from Japan. 
+I recently discovered the joy of programming and started teaching myself web development. I love the process of learning new things and building interactive projects with my own code.
+
+---
+
+## 🔬 Research Areas & Interests
+Things I am passionate about and want to explore deeper:
+
+*   **Web Development Foundations:** Understanding the core mechanics of HTML, CSS, and modern JavaScript.
+*   **Clean Architecture:** Learning how to write readable, efficient, and well-structured source code with the guidance of my mentor.
+*   **Interactive Web Apps:** Exploring how to create user-friendly interfaces and dynamic web features.
+
+---
 
 ## 🛠️ Technical Stack
-少しずつ触れるようになった言語やツールです。
+Languages and tools I am currently practice with:
 
-### Languages & Frontend
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+*   **Languages & Frontend:** `HTML5` / `CSS3` / `JavaScript (ES6+)`
+*   **Tools:** `Git` / `GitHub` / `VS Code`
 
-### Tools
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+---
 
 ## 💻 Featured Projects
-これまで手探りで作ってみた、または作成中のプロジェクトです。
+My ongoing passion project:
 
-### 📊 クイズアプリ（final-quiz.github.io）
-JavaScriptを使って作成したシンプルなクイズアプリです。GitHub Pagesを使って実際にネット上で動かせるようにして、少しずつコードを直す練習をしています。
-- **言語:** JavaScript, HTML, CSS
+### 📊 Quiz App (`final-quiz.github.io`)
+A simple, interactive quiz web application built from scratch. I am hosted it using GitHub Pages to practice deploying websites and continuously refactoring my code.
+*   **Tech Stack:** JavaScript / HTML5 / CSS3
+*   **Live Demo:** You can access the application link right from my repository list!
 
-## 📈 GitHub Stats & Activity
-日々の学習の記録（草）やアクティビティです。
-
-<p align="center">
-  <img src="https://vercel.app" alt="QuarkNull's GitHub stats" />
-</p>
+---
 
 ## 📬 Connect
-- **Project Link:** [https://github.io](https://github.io)
-- まだまだ分からないことばかりの初心者高校生ですが、もしおすすめの勉強法やアドバイスなどがあれば、お気軽に優しく教えていただけるととても嬉しいです！
+
+*   As a high school student and a beginner developer, I still have a lot to learn. If you have any helpful advice, study tips, or recommendations, please feel free to share them with me! Your kindness is highly appreciated. 
 
 ---
 <p align="center">Tokyo, Japan | Last updated: November 2026</p>
